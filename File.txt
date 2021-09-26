@@ -3,3 +3,4 @@ This file which includes some animals names
 Tiger
 Cat
 Dog
+Horse
